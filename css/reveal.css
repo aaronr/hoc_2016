@@ -85,6 +85,11 @@ body {
 .reveal h3 { font-size: 1.55em;	}
 .reveal h4 { font-size: 1em;	}
 
+html:-webkit-full-screen-ancestor {
+  background-color: inherit; }
+
+html:-moz-full-screen-ancestor {
+  background-color: inherit; }
 
 /*********************************************
  * VIEW FRAGMENTS
