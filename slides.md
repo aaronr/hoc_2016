@@ -208,5 +208,6 @@ if (mouseIsPressed) {
 <!-- Topic: Example -->
 
 <img src="images/emmettracicot.png" style="max-height: 550px;">
+<br>
 <small>http://emmettracicot.com</small><br>
 
