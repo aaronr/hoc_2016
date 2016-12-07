@@ -171,6 +171,23 @@
 
 --SUBSLIDE--
 
+<h2>We are using Javascript</h2><br>
+<h2><b>Syntax Matters!!!!</b></h2>
+<hr>
+<pre><code>
+ellipse(100,200,50,50);
+</code></pre>
+
+--SUBSLIDE--
+
+<pre><code>
+if (mouseIsPressed) {
+    playSound(getSound("rpg/giant-no"));
+}
+</code></pre>
+
+--SUBSLIDE--
+
 <img src="images/freehandsimple.png" style="max-height: 550px;">
 
 --SUBSLIDE--
