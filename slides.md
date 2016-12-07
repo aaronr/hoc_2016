@@ -196,6 +196,10 @@ if (mouseIsPressed) {
 
 --SUBSLIDE--
 
+<img src="images/docs.png" style="max-height: 550px;">
+
+--SUBSLIDE--
+
 <img src="images/art.png" style="max-height: 550px;">
 
 <!------------------------------------------------------------>
