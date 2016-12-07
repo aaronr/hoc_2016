@@ -196,6 +196,7 @@ if (mouseIsPressed) {
 
 --SUBSLIDE--
 
+<h2>Documentation</h2>
 <img src="images/docs.png" style="max-height: 550px;">
 
 --SUBSLIDE--
