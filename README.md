@@ -1,2 +1,1 @@
-# hoc_2016
-Hour of Code slides for 4th grade - 2016
+Slides for 4th grade hour of code 2016
